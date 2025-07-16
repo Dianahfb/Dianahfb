@@ -67,7 +67,7 @@ Implemented save/load functionality and clean architecture using **OOP principle
 
 ### 📍 Based in Porto, Portugal  
 🌐 Let’s connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/dianahernandezhf)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/dianahernandezhf)  
 
 
 ---
