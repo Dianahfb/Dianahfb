@@ -1,4 +1,4 @@
-# 👩‍💻 Diana Boura | .NET Developer
+# 👩‍💻 Diana Boura | Software Developer
 
 🚀 Full-stack developer passionate about crafting functional, user-focused applications from the ground up. I specialize in **Java**, **Spring Boot**, **React.js**, and **C#/.NET**, and love transforming ideas into scalable digital products.
 
@@ -67,8 +67,8 @@ Implemented save/load functionality and clean architecture using **OOP principle
 
 ### 📍 Based in Porto, Portugal  
 🌐 Let’s connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/dianahernandezhf)  
+
 
 ---
 
