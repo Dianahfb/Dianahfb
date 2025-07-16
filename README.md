@@ -25,6 +25,16 @@ Built a CRUD web app with ASP.NET Core & SQL Server, designed backend REST APIs,
 **🔹 Full-Stack RFP App (Bootcamp Project)**  
 Developed a full-stack React & Spring Boot solution for managing RFPs. Integrated AI tools, wrote RESTful APIs, and participated in Agile sprints and code reviews.
 
+** 🔹 Pacman Game **
+Designed a 2D arcade game with responsive controls and collision detection.
+Applied OOP principles for modular, maintainable code.
+
+** 🔹 2D Map Editor Tool **
+Created a customizable 2D map editor with tile selection, grid layout, and real-time rendering.
+Enabled map sabing/loading and ensured clean architecture using OOP.
+
+
+
 ---
 
 ### 💼 Currently
