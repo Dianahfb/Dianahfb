@@ -1,4 +1,4 @@
-# 👩‍💻 Diana Boura | Software Developer
+# 👩‍💻 Diana Boura | .NET Developer
 
 🚀 Full-stack developer passionate about crafting functional, user-focused applications from the ground up. I specialize in **Java**, **Spring Boot**, **React.js**, and **C#/.NET**, and love transforming ideas into scalable digital products.
 
@@ -29,6 +29,14 @@ Built a CRUD web app using **C# and ASP.NET Core**. Designed REST APIs, integrat
 Developed a responsive web app using **React.js (frontend)** and **Spring Boot (backend)** to manage RFPs, automate proposals, and improve the user experience.  
 Worked in Agile sprints with daily standups, code reviews, and collaborative planning.
 
+**🕹️ Pacman Game**  
+Designed a 2D arcade-style **Pacman game** with responsive controls, collision detection, and classic gameplay mechanics.  
+Applied **Object-Oriented Programming** for modularity and maintainability.
+
+**🧩 2D Map Editor Tool**  
+Created a customizable 2D map editor with tile selection, grid layout, and real-time rendering.  
+Implemented save/load functionality and clean architecture using **OOP principles**.
+
 ---
 
 ### 💼 Professional Experience
@@ -40,16 +48,6 @@ Worked in Agile sprints with daily standups, code reviews, and collaborative pla
 **💬 Commercial Sales Representative** – *Holmes Place* (May 2024 – Nov 2024)  
 • Exceeded sales targets through tailored consultations.  
 • Built strong client relationships using empathy and strategic communication.
-
-** 🔹 Pacman Game **
-Designed a 2D arcade game with responsive controls and collision detection.
-Applied OOP principles for modular, maintainable code.
-
-** 🔹 2D Map Editor Tool **
-Created a customizable 2D map editor with tile selection, grid layout, and real-time rendering.
-Enabled map sabing/loading and ensured clean architecture using OOP.
-
-
 
 ---
 
@@ -70,11 +68,9 @@ Enabled map sabing/loading and ensured clean architecture using OOP.
 ### 📍 Based in Porto, Portugal  
 🌐 Let’s connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
 
 ---
 
 ✨ *Let’s build something legendary.*
 
-Working at the intersection of data and business—streamlining policy integration and process automation.
-
----
