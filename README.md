@@ -1,13 +1,18 @@
 # Hi, I'm Diana 👋  
-
+![Photo](link-to-your-photo)
 
 - **Languages:** C#, JavaScript, SQL  
 - **Frameworks:** .NET, React, Node.js  
+![C#](badge-url) ![JS](badge-url)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianahfb&layout=compact)]()
 [![Streak](...streak-stats URL...)]()
 
 ![Snake SVG](https://github.com/platane/snk/embed-url.svg)
+
+
+
 
 <!--
 **Dianahfb/Dianahfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
