@@ -12,6 +12,12 @@
 ![Snake SVG](https://github.com/platane/snk/embed-url.svg)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="...-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="...svg" />
+  <img alt="github-snake" src="...svg" />
+</picture>
+``` :contentReference[oaicite:18]{index=18}
 
 
 <!--
