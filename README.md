@@ -1,3 +1,4 @@
+![IMG_8436](https://github.com/user-attachments/assets/06f8a0d0-0350-4d43-a9b2-99dbb4ff470c)
 # Hi, I'm Diana 👋  
 ![Photo](link-to-your-photo)
 
