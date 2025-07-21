@@ -41,10 +41,6 @@ Implemented save/load functionality and clean architecture using **OOP principle
 
 ### 💼 Professional Experience
 
-**🧾 Data Analyst** – *Hispania Coverholder Insurance* (Oct 2024 – Present)  
-• Executed business analysis tasks and automated policy data processing.  
-• Integrated data into insurance management systems (ex-i2s).
-
 **💬 Commercial Sales Representative** – *Holmes Place* (May 2024 – Nov 2024)  
 • Exceeded sales targets through tailored consultations.  
 • Built strong client relationships using empathy and strategic communication.
